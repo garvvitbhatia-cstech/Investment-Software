@@ -1,0 +1,19 @@
+[06-Sep-2025 12:21:06 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\AdminController, because the name is already in use in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/app/Http/Controllers/Admin/ExportsController.php on line 36
+[16-Sep-2025 06:51:10 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/vendor/nesbot/carbon/src/Carbon/Traits/Converter.php on line 69
+[16-Sep-2025 06:57:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/vendor/nesbot/carbon/src/Carbon/Traits/Converter.php on line 69
+[16-Sep-2025 07:50:49 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/app/Helpers/Helper.php on line 173
+[16-Sep-2025 07:50:52 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/app/Helpers/Helper.php on line 173
+[16-Sep-2025 07:50:54 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/app/Helpers/Helper.php on line 173
+[16-Sep-2025 07:51:32 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/app/Helpers/Helper.php on line 173
+[16-Sep-2025 07:51:33 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/app/Helpers/Helper.php on line 173
+[16-Sep-2025 07:52:04 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/app/Helpers/Helper.php on line 173
+[16-Sep-2025 07:52:33 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/app/Helpers/Helper.php on line 173
+[16-Sep-2025 07:52:34 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/app/Helpers/Helper.php on line 173
+[16-Sep-2025 07:53:00 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/app/Helpers/Helper.php on line 173
+[16-Sep-2025 07:53:01 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/app/Helpers/Helper.php on line 173
+[16-Sep-2025 07:53:02 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/app/Helpers/Helper.php on line 173
+[16-Sep-2025 07:53:13 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/app/Helpers/Helper.php on line 173
+[16-Sep-2025 07:53:14 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/app/Helpers/Helper.php on line 173
+[16-Sep-2025 07:53:43 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/app/Helpers/Helper.php on line 173
+[16-Sep-2025 07:54:55 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/app/Helpers/Helper.php on line 174
+[16-Sep-2025 07:54:56 UTC] PHP Parse error:  syntax error, unexpected token ":" in /home/ofb9u7na3r4v/public_html/demo.kaushalenterprises.co.in/msp_crs/app/Helpers/Helper.php on line 174

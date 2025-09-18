@@ -1,0 +1,1621 @@
+@media screen and (min-width: 320px) and (max-width:767px) { 
+
+    .comp-logo {
+        max-width: 40%;
+    }
+    
+    button.navbar-toggler {
+        background: #f0961b;
+        transform: scale(.7);
+    }
+    
+    .banner {
+        padding: 30px 0 40px 0;
+        background-position: center;
+    }
+    
+    .badge h4 {
+        font-size: 10px;
+        font-weight: 500;
+    }
+    
+    .banner .badge {
+        padding: 6px 15px;
+    }
+    
+    h4 {
+        font-size: 16px;
+    }
+    
+    .banner .subtitle {
+        font-weight:700;
+    }
+    
+    h1 {
+        font-size: 30px;
+    }
+    
+    p {
+        font-size: 13px;
+    }
+    
+    .btn {
+        border: 0px;
+        padding: 6px 25px;
+        font-size: 13px;
+    }
+    
+    .img-grp {
+        width: 50%;
+    }
+    
+    .frt {
+        margin-bottom: 20px;
+    }
+    
+    .frst {
+        display: flex;
+        column-gap: 20px;
+        margin: 20px 10px;
+        align-items: end;
+    }
+    
+    h4.heading {
+        font-size: 16px;
+    }
+    
+    h3 {
+        font-size: 20px;
+        margin: 10px 15px;
+        line-height: 21px;
+    }
+    
+    .statix-box {
+        padding: 30px 30px;
+        margin: 15px 0;
+    }
+    
+    .statix-main {
+        margin-top: 30px;
+    }
+    
+    .section-padding {
+        padding: 30px 0;
+    }
+    
+    .civil-box {
+        margin-top: 55px;
+    }
+    
+    .civil-box p {
+        min-height: 30px;
+    }
+    
+    .pan-main {
+        margin-top: 40px;
+    }
+    
+    .card-box {
+        margin-bottom: 30px;
+    }
+    
+    .service ul {
+        margin: 40px 0;
+        flex-wrap: wrap;
+            column-gap: 10px;
+    }
+    
+    .service ul li{
+        width: 48%;
+    }
+    
+    /* .service ul li a {
+        width: 165px;
+    } */
+    
+    #nav-tabContent li {
+        width: 48%;
+    }
+    
+    #nav-tabContent li:last-child a {
+        font-size: 14px;
+        align-items: flex-start;
+    }
+    
+    .bcp-main {
+        margin-top: 30px;
+    }
+    
+    .bcp-box {
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    
+    h2 {
+        font-size: 26px;
+        font-weight: 700;
+    }
+    
+    .vista-box {
+        padding: 20px;
+        margin-top: 20px;
+    }
+    
+    /* .vista-box .img {
+        height: 80px;
+        width: 80px;
+        padding: 20px;
+    } */
+    
+    .vista-box.shadow {
+        padding: 20px;
+    }
+    
+    h3 span {
+        font-size: 14px;
+    }
+    
+    .price ul {
+        flex-wrap: wrap;
+    }
+    
+    .price ul li{
+        padding: 0 0px;
+    }
+    
+    .price ul li a {
+        border-radius: 6px;
+        width: 100%;
+        height: auto;
+        margin-top: 16px;
+        font-size: 12px;
+        padding: 0 6px;
+    }
+    
+    table.table.bl-table.table-striped td {
+        font-size: 12px;
+        width: 20%;
+        padding: 10px;
+    }
+    
+    td img {
+        width: 17px;
+    }
+    
+    table a {
+        font-size: 11px;
+    }
+    
+    .addon h3 {
+        line-height: 25px;
+    }
+    
+    .addon h3 br{
+        display: none;
+    }
+    
+    .addon-box a {
+        font-size: 12px;
+    }
+    
+    .addon-box {
+        padding: 14px;
+        margin-top: 20px;
+        text-align: center;
+    }
+    
+    .faqs h6 {
+        margin-top: 30px;
+        font-size: 20px;
+    }
+    
+    .card-head p {
+        padding: 10px 20px;
+        font-size: 12px!important;
+    }
+    
+    .accordion .card p {
+        background-size: 11px;
+        background-position: calc(102% - 18px) 14px;
+    }
+    
+    .accordion .card-body {
+        padding: 10px 20px!important;
+        font-size: 12px;
+    }
+    
+    .accordion {
+        margin-top: 15px;
+    }
+    
+    .how-to .vista-box p {
+        min-height: 30px;
+    }
+    
+    .vista-box.shadow hr {
+        margin: 10px 0;
+    }
+    
+    .client-details {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .client-feedback-box{
+        text-align: center;
+    }
+    
+    footer.footer .row {
+        row-gap: 40px;
+    }
+    
+    footer.footer hr {
+        margin: 30px 0!important;
+    }
+    
+    footer a, footer li, .footer-bottom p {
+        font-size: 12px;
+    }
+    
+    
+    /*======== signup ========*/
+    
+    .create-ac-box {
+        padding: 15px;
+    }
+    
+    .create-ac-box h3 {
+        font-size: 20px;
+    }
+    
+    .create-ac-box label {
+        font-size: 12px;
+    }
+    
+    .create-ac-box p{
+        padding: 0 20px;
+    }
+    
+    .create-ac-box .my-3{
+        margin:0!important;
+    }
+    .create-ac-box .py-3{
+         padding:0!important;
+    }
+    
+    
+    .bl-mob .col-md-6, .bl-mob .col-md-4{
+       padding: 0px!important;
+    }
+    
+    .create-account label{
+        margin-top: 25px;
+    }
+    
+    .create-account button{
+        margin: 15px 0;
+    }
+    
+    .mb-3.form-check {
+        margin-top: 20px;
+    }
+    
+    label.form-check-label span,
+    label.form-check-label a{
+        font-size: 13px;
+    }
+    
+    .mb-3.form-check label{
+        margin: 0!important;
+    }
+    
+    .create-account p a{
+        font-size: 13px;
+    }
+    
+    .create-account input::placeholder{
+        font-size: 13px;
+    }
+    
+    /*===== dashboard =====*/
+    
+    .dashoard .nav {
+        row-gap: 10px;
+    }
+    
+    .dashoard {
+        padding: 15px;
+    }
+    
+    .dashoard .menus{
+        position: absolute;
+        background:#fff;
+        left: -100%;
+        transition: all ease-in-out 0.3s;
+        max-width: 300px;
+        height: 100vh;
+        padding-right: 0px;
+        border-radius: 0 10px 0 0;
+        box-shadow: 0 0 10px rgba(0, 0, 0, .3);
+    }
+    .left-nav-bar ul li {
+        margin-bottom: 0px;
+    }
+    .form-label {
+        font-size: 0.875rem!important;
+    }
+    .dashoard .menus.active{
+        left: 0;
+        top: 70px;
+    }
+    
+    form input, form select.form-select  {
+        height: 42px;
+        padding: 0 10px !important;
+    }
+    
+    
+    .dashoard nav .nav-link {
+        font-size: 13px;
+        height: 45px;
+    }
+    .sidebar-menu {
+        display: block!important;
+        position: fixed;
+        right: 100px;
+        top: 23px;
+        z-index: 9999;
+        font-size: 12px;
+    }
+    
+    .dashoard .cont-box {
+        padding: 15px;
+        row-gap: 10px;
+        min-height: auto;
+    }
+    
+    .dashoard .cont-box button {
+        font-size: 13px;
+    }
+    
+    .mob-flex{
+        flex-direction: column;
+    }
+    
+    .dashoard .cont-box2 {
+        padding: 15px;
+        min-height: auto;
+    }
+    
+    .dash-box .right a {
+        margin-top: 20px;
+    }
+    
+    .dash-box .img {
+        height: 60px;
+        min-width: 60px;
+        padding: 10px;
+    }
+    
+    .blg-box a {
+        text-decoration: underline;
+        font-size: 12px;
+    }
+    
+    }
+    
+    
+    
+    
+    
+    
+    @media screen and (min-width: 768px) and (max-width:1023px) { 
+    
+    .comp-logo {
+        max-width: 40%;
+    }
+    
+    button.navbar-toggler {
+        background: #f0961b;
+        transform: scale(.7);
+    }
+    
+    .banner {
+        padding: 30px 0 40px 0;
+        background-position: center;
+    }
+    
+    .badge h4 {
+        font-size: 10px;
+        font-weight: 500;
+    }
+    
+    .banner .badge {
+        padding: 6px 15px;
+    }
+    
+    h4 {
+        font-size: 16px;
+    }
+    
+    .banner .subtitle {
+        font-weight:700;
+    }
+    
+    h1 {
+        font-size: 30px;
+    }
+    
+    p {
+        font-size: 13px;
+    }
+    
+    .btn {
+        border: 0px;
+        padding: 6px 25px;
+        font-size: 13px;
+    }
+    
+    .img-grp {
+        width: 50%;
+    }
+    
+    .frt {
+        margin-bottom: 20px;
+    }
+    
+    .frst {
+        display: flex;
+        column-gap: 20px;
+        margin: 20px 10px;
+        align-items: end;
+    }
+    
+    h4.heading {
+        font-size: 16px;
+    }
+    
+    h3 {
+        font-size: 20px;
+        margin: 10px 15px;
+        line-height: 21px;
+    }
+    
+    .statix-box {
+        padding: 20px 15px;
+        margin: 15px 0;
+    }
+    
+    .statix-main {
+        margin-top: 30px;
+    }
+    
+    .section-padding {
+        padding: 30px 0;
+    }
+    
+    .civil-box {
+        margin-top: 20px;
+        padding: 15px;
+    }
+    
+    .civil-box p {
+        min-height: 30px;
+    }
+    
+    .pan-main {
+        margin-top: 40px;
+    }
+    
+    .card-box {
+        margin-bottom: 30px;
+    }
+    
+    .service ul {
+        margin: 40px 0;
+        flex-wrap: wrap;
+            column-gap: 10px;
+    }
+    
+    .service ul li {
+        width: 21%;
+    }
+    
+    /* .service ul li a {
+        width: 165px;
+    } */
+    
+    #nav-tabContent li {
+        width: 48%;
+    }
+    
+    #nav-tabContent li:last-child a {
+        font-size: 14px;
+        align-items: flex-start;
+    }
+    
+    .bcp-main {
+        margin-top: 30px;
+    }
+    
+    .bcp-box {
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    
+    h2 {
+        font-size: 26px;
+        font-weight: 700;
+    }
+    
+    .vista-box {
+        padding: 20px;
+        margin-top: 50px;
+    }
+    
+    /* .vista-box .img {
+        height: 80px;
+        width: 80px;
+        padding: 20px;
+    } */
+    
+    .vista-box.shadow {
+        padding: 20px;
+    }
+    
+    h3 span {
+        font-size: 14px;
+    }
+    
+    .price ul {
+        flex-wrap: wrap;
+    }
+    
+    .price ul li{
+        width: 50%;
+        padding: 0 10px;
+    }
+    
+    .price ul li a {
+        border-radius: 6px;
+        width: 100%;
+        height: 42px;
+        margin-top: 16px;
+        font-size: 14px;
+    }
+    
+    table.table.bl-table.table-striped td {
+        font-size: 12px;
+        width: 20%;
+        padding: 10px;
+    }
+    
+    td img {
+        width: 17px;
+    }
+    
+    table a {
+        font-size: 11px;
+    }
+    
+    .addon h3 {
+        line-height: 25px;
+    }
+    
+    .addon h3 br{
+        display: none;
+    }
+    
+    .addon-box a {
+        font-size: 12px;
+    }
+    
+    .addon-box {
+        padding: 14px;
+        margin-top: 20px;
+        text-align: center;
+    }
+    
+    .faqs h6 {
+        margin-top: 30px;
+        font-size: 20px;
+    }
+    
+    .card-head p {
+        padding: 10px 20px;
+        font-size: 12px!important;
+    }
+    
+    .accordion .card p {
+        background-size: 11px;
+        background-position: calc(102% - 18px) 14px;
+    }
+    
+    .accordion .card-body {
+        padding: 10px 20px!important;
+        font-size: 12px;
+    }
+    
+    .accordion {
+        margin-top: 15px;
+    }
+    
+    .how-to .vista-box p {
+        min-height: 30px;
+    }
+    
+    .vista-box.shadow hr {
+        margin: 10px 0;
+    }
+    
+    .client-details {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .client-feedback-box{
+        text-align: center;
+    }
+    
+    footer.footer .row {
+        row-gap: 40px;
+    }
+    
+    footer.footer hr {
+        margin: 30px 0!important;
+    }
+    
+    footer a, footer li, .footer-bottom p {
+        font-size: 12px;
+    }
+    
+    .statix-main .col {
+        width: 20%;
+    }
+    
+    .statix-box .img {
+        padding: 23px;
+        height: 80px;
+        width: 80px;
+    }
+    
+    .vista-box h4 {
+        min-height: 35px;
+    }
+    
+    .account-box {
+        height: 175px;
+    }
+    
+    /*======== signup ========*/
+    
+    .create-ac-box {
+        padding: 15px;
+    }
+    
+    .create-ac-box h3 {
+        font-size: 20px;
+    }
+    
+    .create-ac-box label {
+        font-size: 12px;
+    }
+    
+    .create-ac-box p{
+        padding: 0 20px;
+    }
+    
+    .create-ac-box .my-3{
+        margin:0!important;
+    }
+    .create-ac-box .py-3{
+         padding:0!important;
+    }
+    
+    
+    /*.bl-mob .col-md-6, .bl-mob .col-md-4{
+       padding: 0px!important;
+    }*/
+    
+    .create-account label{
+        margin-top: 25px;
+    }
+    
+    .create-account button {
+        margin: 15px auto;
+        width: 150px;
+    }
+    
+    .mb-3.form-check {
+        margin-top: 20px;
+    }
+    
+    label.form-check-label span,
+    label.form-check-label a{
+        font-size: 13px;
+    }
+    
+    .mb-3.form-check label{
+        margin: 0!important;
+    }
+    
+    .create-account p a{
+        font-size: 13px;
+    }
+    
+    .create-account input::placeholder{
+        font-size: 13px;
+    }
+    
+    
+    
+    /*===== dashboard =====*/
+    
+    .dashoard .nav {
+        row-gap: 10px;
+    }
+    
+    .dashoard {
+        padding: 15px;
+    }
+    
+    .dashoard .menus{
+        position: absolute;
+        background:#fff;
+        left: -100%;
+        transition: all ease-in-out 0.3s;
+        max-width: 300px;
+        height: 95vh;
+        padding-right: 0px;
+        border-radius: 0 10px 0 0;
+        box-shadow: 0 0 10px rgba(0, 0, 0, .3);
+    }
+    .left-nav-bar ul li {
+        margin-bottom: 0;
+    }
+    
+    .dashoard .menus.active{
+        left: 0;
+        top: 70px;
+    }
+    
+    .dashoard nav .nav-link {
+        font-size: 13px;
+        height: 45px;
+    }
+    .sidebar-menu {
+        display: block!important;
+        position: fixed;
+        right: 50%;
+        top: 23px;
+        z-index: 9999;
+        font-size: 12px;
+    }
+    
+    .dashoard .cont-box {
+        padding: 15px;
+        row-gap: 10px;
+        min-height: 330px;
+    }
+    
+    .dashoard .cont-box button {
+        font-size: 13px;
+    }
+    
+    /*.mob-flex{
+        flex-direction: column;
+    }*/
+    
+    .dashoard .cont-box2 {
+        padding: 15px;
+            min-height: 150px;
+    
+    }
+    
+    .qr img {
+        max-width: 90%;
+    }
+    
+    .dash-box .right a {
+        margin-top: 20px;
+    }
+    
+    .dash-box .img {
+        height: 60px;
+        min-width: 60px;
+        padding: 10px;
+    }
+    
+    .blg-box a {
+        text-decoration: underline;
+        font-size: 12px;
+    }
+    
+    .blg-box {
+        row-gap: 20px;
+        padding: 0 10px;
+    }
+    
+    }
+    
+    
+    
+    
+    
+    @media screen and (min-width: 1024px) and (max-width:1365px) { 
+    
+    .comp-logo {
+        max-width: 15%;
+    }
+    
+    .header .navbar .navbar-nav li .nav-link {
+        font-size: 15px;
+    }
+    
+    button.navbar-toggler {
+        background: #f0961b;
+        transform: scale(.7);
+    }
+    
+    .banner {
+        padding: 30px 0 40px 0;
+        background-position: center;
+    }
+    
+    .badge h4 {
+        font-size: 10px;
+        font-weight: 500;
+    }
+    
+    .banner .badge {
+        padding: 6px 15px;
+    }
+    
+    h4 {
+        font-size: 16px;
+    }
+    
+    .banner .subtitle {
+        font-weight:700;
+    }
+    
+    h1 {
+        font-size: 30px;
+    }
+    
+    p {
+        font-size: 13px;
+    }
+    
+    .btn {
+        border: 0px;
+        padding: 6px 25px;
+        font-size: 13px;
+    }
+    
+    .img-grp {
+        width: 50%;
+    }
+    
+    .frt {
+        margin-bottom: 20px;
+    }
+    
+    .frst {
+        display: flex;
+        column-gap: 20px;
+        margin: 20px 10px;
+        align-items: end;
+    }
+    
+    h4.heading {
+        font-size: 16px;
+    }
+    
+    h3 {
+        font-size: 20px;
+        margin: 10px 15px;
+        line-height: 21px;
+    }
+    
+    .statix-box {
+        padding: 20px 15px;
+        margin: 15px 0;
+    }
+    
+    .statix-main {
+        margin-top: 10px;
+    }
+    
+    .section-padding {
+        padding: 30px 0;
+    }
+    
+    .civil-box {
+        margin-top: 20px;
+        padding: 15px;
+    }
+    
+    .civil-box p {
+        min-height: 60px;
+    }
+    
+    .pan-main {
+        margin-top: 40px;
+    }
+    
+    .card-box {
+        margin-bottom: 30px;
+    }
+    
+    .service ul {
+        margin: 40px 0;
+        flex-wrap: wrap;
+            column-gap: 10px;
+    }
+    
+    .service ul li {
+        width: 11%;
+        height: 155px;
+    }
+    
+    .service ul li a {
+        width: 100%;
+    }
+    
+    .service nav button {
+        height: auto;
+    }
+    
+    #nav-tabContent li {
+        width: 48%;
+    }
+    
+    #nav-tabContent li:last-child a {
+        font-size: 14px;
+        align-items: flex-start;
+    }
+    
+    .bcp-main {
+        margin-top: 30px;
+    }
+    
+    .bcp-box {
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    
+    .service ul li .img {
+        height: 85px;
+        width: 85px;
+    }
+    
+    h2 {
+        font-size: 26px;
+        font-weight: 700;
+    }
+    
+    .vista-box {
+        padding: 20px;
+        margin-top: 50px;
+    }
+    
+    /* .vista-box .img {
+        height: 80px;
+        width: 80px;
+        padding: 20px;
+    } */
+    
+    .vista-box.shadow {
+        padding: 20px;
+    }
+    
+    h3 span {
+        font-size: 14px;
+    }
+    
+    .price ul {
+        flex-wrap: wrap;
+    }
+    
+    .price ul li {
+        width: 20%;
+        padding: 0 10px;
+    }
+    
+    .price ul li a {
+        border-radius: 6px;
+        width: 100%;
+        height: 42px;
+        margin-top: 16px;
+        font-size: 14px;
+    }
+    
+    table.table.bl-table.table-striped td {
+        font-size: 12px;
+        width: 20%;
+        padding: 10px;
+    }
+    
+    td img {
+        width: 17px;
+    }
+    
+    table a {
+        font-size: 11px;
+    }
+    
+    .addon h3 {
+        line-height: 25px;
+    }
+    
+    .addon h3 br{
+        display: none;
+    }
+    
+    .addon-box a {
+        font-size: 12px;
+    }
+    
+    .addon-box {
+        padding: 14px;
+        margin-top: 20px;
+        text-align: center;
+    }
+    
+    .faqs h6 {
+        margin-top: 30px;
+        font-size: 20px;
+    }
+    
+    .card-head p {
+        padding: 10px 20px;
+        font-size: 12px!important;
+    }
+    
+    .accordion .card p {
+        background-size: 11px;
+        background-position: calc(102% - 18px) 14px;
+    }
+    
+    .accordion .card-body {
+        padding: 10px 20px!important;
+        font-size: 12px;
+    }
+    
+    .accordion {
+        margin-top: 15px;
+    }
+    
+    .how-to .vista-box p {
+        min-height: 30px;
+    }
+    
+    .vista-box.shadow hr {
+        margin: 10px 0;
+    }
+    
+    .client-details {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .client-feedback-box{
+        text-align: center;
+    }
+    
+    footer.footer .row {
+        row-gap: 40px;
+    }
+    
+    footer.footer hr {
+        margin: 30px 0!important;
+    }
+    
+    footer a, footer li, .footer-bottom p {
+        font-size: 12px;
+    }
+    
+    .statix-main .col {
+        width: 20%;
+    }
+    
+    .statix-box .img {
+        padding: 23px;
+        height: 80px;
+        width: 80px;
+    }
+    
+    .vista-box h4 {
+        min-height: 35px;
+    }
+    
+    .account-box {
+        height: 175px;
+    }
+    
+    /*======== signup ========*/
+    
+    .create-ac-box {
+        padding: 15px;
+    }
+    
+    .create-ac-box h3 {
+        font-size: 20px;
+    }
+    
+    .create-ac-box label {
+        font-size: 12px;
+    }
+    
+    .create-ac-box p{
+        padding: 0 20px;
+    }
+    
+    .create-ac-box .my-3{
+        margin:0!important;
+    }
+    .create-ac-box .py-3{
+         padding:0!important;
+    }
+    
+    
+    /*.bl-mob .col-md-6, .bl-mob .col-md-4{
+       padding: 0px!important;
+    }*/
+    
+    .create-account label{
+        margin-top: 25px;
+    }
+    
+    .create-account button {
+        margin: 15px auto;
+        width: 150px;
+    }
+    
+    .mb-3.form-check {
+        margin-top: 20px;
+    }
+    
+    label.form-check-label span,
+    label.form-check-label a{
+        font-size: 13px;
+    }
+    
+    .mb-3.form-check label{
+        margin: 0!important;
+    }
+    
+    .create-account p a{
+        font-size: 13px;
+    }
+    
+    .create-account input::placeholder{
+        font-size: 13px;
+    }
+    
+    /*===== dashboard =====*/
+    
+    .dashoard .nav {
+        row-gap: 10px;
+    }
+    
+    .dashoard {
+        padding: 15px;
+    }
+    
+    
+    
+    .dashoard nav .nav-link {
+        font-size: 13px;
+        height: 45px;
+    }
+    
+    .dashoard .cont-box {
+        padding: 15px;
+        row-gap: 10px;
+        min-height: 330px;
+    }
+    
+    .dashoard .cont-box button {
+        font-size: 13px;
+    }
+    
+    /*.mob-flex{
+        flex-direction: column;
+    }*/
+    
+    .dashoard .cont-box2 {
+        padding: 15px;
+            min-height: 150px;
+    
+    }
+    
+    .qr img {
+        max-width: 90%;
+    }
+    
+    .dash-box .right a {
+        margin-top: 20px;
+    }
+    
+    .dash-box .img {
+        height: 60px;
+        min-width: 60px;
+        padding: 10px;
+    }
+    
+    .blg-box a {
+        text-decoration: underline;
+        font-size: 12px;
+    }
+    
+    .blg-box {
+        row-gap: 20px;
+        padding: 0 10px;
+    }
+    
+    }
+    
+    }
+    
+    
+    
+    
+    
+    @media screen and (min-width: 1366px) and (max-width:1600px) { 
+    
+    .comp-logo {
+        max-width: 15%;
+    }
+    
+    .header .navbar .navbar-nav li .nav-link {
+        font-size: 15px;
+    }
+    
+    button.navbar-toggler {
+        background: #f0961b;
+        transform: scale(.7);
+    }
+    
+    .banner {
+        padding: 30px 0 40px 0;
+        background-position: center;
+    }
+    
+    .badge h4 {
+        font-size: 10px;
+        font-weight: 500;
+    }
+    
+    .banner .badge {
+        padding: 6px 15px;
+    }
+    
+    h4 {
+        font-size: 22px;
+    }
+    
+    .banner .subtitle {
+        font-weight:700;
+    }
+    
+    h1 {
+        font-size: 50px;
+    }
+    
+    p {
+        font-size: 16px;
+    }
+    
+    .btn {
+        border: 0px;
+        padding: 10px 30px;
+        font-size: 16px;
+    }
+    
+    .img-grp {
+        width: 50%;
+    }
+    
+    .frt {
+        margin-bottom: 20px;
+    }
+    
+    .frst {
+        display: flex;
+        column-gap: 20px;
+        margin: 20px 10px;
+        align-items: end;
+    }
+    
+    h4.heading {
+        font-size: 22px;
+    }
+    h3 {
+        font-size: 28px;
+        margin: 20px 15px;
+        line-height: 21px;
+    }
+    
+    .statix-box {
+        padding: 20px 15px;
+        margin: 15px 0;
+    }
+    
+    .statix-main {
+        margin-top: 10px;
+    }
+    
+    .section-padding {
+        padding: 30px 0;
+    }
+    
+    .civil-box {
+        margin-top: 20px;
+        padding: 15px;
+    }
+    
+    .civil-box p {
+        min-height: 70px;
+    }
+    
+    .pan-main {
+        margin-top: 40px;
+    }
+    
+    .card-box {
+        margin-bottom: 30px;
+    }
+    
+    .service ul {
+        margin: 40px 0;
+        flex-wrap: wrap;
+            column-gap: 10px;
+    }
+    
+    .pan-main p {
+        line-height: 18px;
+    }
+    
+    .service ul li {
+        width: 11%;
+        height: 155px;
+    }
+    
+    .service ul li a {
+        width: 100%;
+    }
+    
+    .service nav button {
+        height: auto;
+    }
+    
+    #nav-tabContent li {
+        width: 48%;       
+    }
+    
+    #nav-tabContent li:last-child a {
+        font-size: 14px;
+        align-items: flex-start;
+    }
+    
+    .bcp-main {
+        margin-top: 30px;
+    }
+    
+    .bcp-box {
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    
+    .service ul li .img {
+        height: 85px;
+        width: 85px;
+    }
+    
+    h2 {
+        font-size: 26px;
+        font-weight: 700;
+    }
+    
+    .vista-box {
+        padding: 20px;
+        margin-top: 20px;
+    }
+    
+    /* .vista-box .img {
+        height: 80px;
+        width: 80px;
+        padding: 20px;
+    } */
+    
+    .vista-box.shadow {
+        padding: 20px;
+    }
+    
+    h3 span {
+        font-size: 14px;
+    }
+    
+    .price ul {
+        flex-wrap: wrap;
+    }
+    
+    .price ul li {
+        width: 20%;
+        padding: 0 10px;
+    }
+    
+    .price ul li a {
+        border-radius: 6px;
+        width: 100%;
+        height: 42px;
+        margin-top: 16px;
+        font-size: 14px;
+    }
+    
+    table.table.bl-table.table-striped td {
+        font-size: 12px;
+        width: 20%;
+        padding: 10px;
+    }
+    
+    td img {
+        width: 17px;
+    }
+    
+    table a {
+        font-size: 11px;
+    }
+    
+    .addon h3 {
+        line-height: 25px;
+    }
+    
+    .addon h3 br{
+        display: none;
+    }
+    
+    .addon-box a {
+        font-size: 12px;
+    }
+    
+    .addon-box {
+        padding: 14px;
+        margin-top: 20px;
+        text-align: center;
+    }
+    
+    .faqs h6 {
+        margin-top: 30px;
+        font-size: 20px;
+    }
+    
+    .card-head p {
+        padding: 10px 20px;
+        font-size: 12px!important;
+    }
+    
+    .accordion .card p {
+        background-size: 11px;
+        background-position: calc(102% - 18px) 14px;
+    }
+    
+    .accordion .card-body {
+        padding: 10px 20px!important;
+        font-size: 12px;
+    }
+    
+    .accordion {
+        margin-top: 15px;
+    }
+    
+    .how-to .vista-box p {
+        min-height: 30px;
+    }
+    
+    .vista-box.shadow hr {
+        margin: 10px 0;
+    }
+    
+    .client-details {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .client-feedback-box{
+        text-align: center;
+    }
+    
+    footer.footer .row {
+        row-gap: 40px;
+    }
+    
+    footer.footer hr {
+        margin: 30px 0!important;
+    }
+    
+    footer a, footer li, .footer-bottom p {
+        font-size: 12px;
+    }
+    
+    .statix-main .col {
+        width: 20%;
+    }
+    
+    .statix-box .img {
+        padding: 23px;
+        height: 80px;
+        width: 80px;
+    }
+    
+    .vista-box h4 {
+        min-height: 35px;
+    }
+    
+    .account-box {
+        height: 175px;
+    }
+    
+    /*======== signup ========*/
+    
+    .create-ac-box {
+        padding: 15px;
+    }
+    
+    .create-ac-box h3 {
+        font-size: 20px;
+    }
+    
+    .create-ac-box label {
+        font-size: 12px;
+    }
+    
+    .create-ac-box p{
+        padding: 0 20px;
+    }
+    
+    .create-ac-box .my-3{
+        margin:0!important;
+    }
+    .create-ac-box .py-3{
+         padding:0!important;
+    }
+    
+    
+    /*.bl-mob .col-md-6, .bl-mob .col-md-4{
+       padding: 0px!important;
+    }*/
+    
+    .create-account label{
+        margin-top: 25px;
+    }
+    
+    .create-account button {
+        margin: 15px auto;
+        width: 200px;
+    }
+    
+    .mb-3.form-check {
+        margin-top: 20px;
+    }
+    
+    label.form-check-label span,
+    label.form-check-label a{
+        font-size: 13px;
+    }
+    
+    .mb-3.form-check label{
+        margin: 0!important;
+    }
+    
+    .create-account p a{
+        font-size: 13px;
+    }
+    
+    .create-account input::placeholder{
+        font-size: 13px;
+    }
+    
+    }

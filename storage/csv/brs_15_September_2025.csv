@@ -1,0 +1,7 @@
+S.No,Ref.No,Name,Branch,"Payment Mode","Receipt No","Instrument Date","Deposit Amount","Registration Fee","Deposit Date",Status,"Clearence/Bounce Date"
+1,43,"Developer SM","Jaipur (3) - 'C' Scheme",Reinvestment,BR/2025-26/6/43,"12 Sep 2025",15000.00,0.00,"12 Sep 2025",Cleared,"12 Sep 2025"
+2,42,"LAVKUSH SINGH1","Vizag - Akkayapalam",Reinvestment,BR/2025-26/2/42,"12 Sep 2025",34.00,0.00,"12 Sep 2025",Cleared,"12 Sep 2025"
+3,41,"LAVKUSH SINGH1","Vizag - Akkayapalam",Reinvestment,BR/2025-26/2/41,"12 Sep 2025",34.00,0.00,"12 Sep 2025",Cleared,"12 Sep 2025"
+4,A-39,"LAVKUSH SINGH1","Vizag - Akkayapalam",IMPS,BR/2025-26/2/39,"13 Sep 2025",34.00,1500.00,"13 Sep 2025",Cleared,"10 Sep 2025"
+5,A-27,"Developer SM","Jaipur (3) - 'C' Scheme",NEFT,BR/2023-24/6/27,"21 Feb 2024",15000.00,1499.00,"21 Feb 2024",Cleared,"11 Sep 2025"
+,

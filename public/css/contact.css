@@ -1,0 +1,330 @@
+.banner-section.contact-us-banner {
+	background-image: url(../images/banner-contact.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 287px;
+	text-align: left;
+	justify-content: left;
+	display: flex;
+	align-items: center;
+}
+.btn.leave-btn:hover {
+	color: #fff !important;
+}
+
+.help-section {
+	background-color: #FCFBFF;
+}
+.shrinkToFit {
+	width: 100% !important;
+}
+h2 {
+	color: #393938;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 36px;
+	line-height: 60px;
+	text-align: center;
+	text-transform: capitalize;
+	font-family: 'Ubuntu';
+}
+.chat-des {
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 18px;
+	text-transform: capitalize;
+	color: #393938;
+}
+.chat-title {
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	line-height: 28px;
+	text-transform: capitalize;
+	color: #393938;
+	padding-left: 10px;
+}
+.btn {
+	background: #D00F76;
+	border-color: #D00F76;
+	border-radius: 4px;
+	padding: 11px 30px;
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 18px;
+	text-align: center;
+	letter-spacing: 0.01em;
+	text-transform: uppercase;
+	color: #FFFFFF !important;
+	
+}
+.national-title {
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 18px;
+	text-transform: capitalize;
+	color: #393938;
+}
+.mail-titles {
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 18px;
+	text-transform: capitalize;
+	color: #393938;
+	opacity: 0.8;
+
+}
+.national-list-menu {
+	list-style: none;
+}
+.national-list-menu li {
+	padding-bottom: 28px;
+}
+.better-box {
+	text-align: left;
+}
+.dealer-title {
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 26px;
+	line-height: 25px;
+	text-transform: capitalize;
+	color: #393938;
+}
+.dealer-sub {
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 25px;
+	text-transform: capitalize;
+	color: #393938;
+	opacity: 0.89;
+}
+.karkiosk-link {
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 25px;
+	text-transform: capitalize;
+	color: #05309D !important;
+}
+.question-section .inner-form {
+	background-color: #FCFBFF;
+	padding: 20px 30px 84px 30px;
+}
+.inner-form h3 {
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 42px;
+	line-height: 48px;
+	color: #393938;
+}
+.inner-form .form-control .form-select {
+	display: block;
+	width: 100%;
+	padding: .375rem .75rem;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	background: #F2F3F5;
+	border: 1px solid rgba(31, 40, 62, 0.1);
+	border-radius: 4px;
+	height: 48px;
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 16px;
+	color: #393938;
+}
+.inner-form .form-label {
+	margin-bottom: .5rem;
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 16px;
+	color: #393938;
+}
+.better-box h2 {
+	text-align: left;
+}
+.contact-us-banner .buy-title {
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 700;
+	font-size:45px;
+	line-height: 71px;
+	text-transform: capitalize;
+	color: #393938;
+	text-align: left;
+}
+.help-titles {
+	text-align: left;
+}
+@media (max-width:1450px){ 
+	.nav-item .nav-link  {
+		font-size: 0.875rem !important;
+		color: #393938 !important;
+		text-decoration: none;
+		font-weight: 500;
+	}
+	.kk-navbar li {
+		margin-right: 2rem;
+	}
+}
+
+@media (max-width:992.98px){
+	.dealer-title {
+		font-size: 21px;
+		line-height: 25px;
+	}
+	.chat-title {
+		font-size: 18px;
+		line-height: 28px;
+		text-transform: capitalize;
+		color: #393938;
+		padding-left: 10px;
+	}
+	.map-section iframe {
+		height: 234px;
+	}
+	h2 {
+		font-size: 27px;
+		line-height: 33px;
+	}
+	.national-list-menu {
+		flex-wrap: wrap;
+		display: flex;
+		padding-top: 25px;
+	}
+	.question-section .col-md-4 {
+		width: 100%;
+	}
+	.national-list-menu li {
+		width: 50%;
+	}
+	.inner-form2 {
+		padding-top: 56px;
+	}
+	.dealer-sub {
+		font-size: 14px;
+	}
+	.banner-section.contact-us-banner {
+		height: 150px !important;
+		background-size: 100%;
+		min-height: 175px;
+	}
+	.banner-section {
+		height: auto;
+		min-height: 250px;
+		object-fit: cover;
+	}
+	.contact-us-banner .buy-title {
+		font-size: 38px;
+		line-height: 71px;
+	}
+	.inner-form h3 {
+		font-size: 26px;
+		line-height: 48px;
+		color: #393938;
+	}
+}
+
+@media (max-width:767.98px){
+	.national-list-menu li {
+		width: 100%;
+	  }
+	h2 {
+		font-size: 1.3rem;
+		line-height: 28px;
+		text-align: center !important;
+	}
+	
+	.inner-form h3 {
+		font-weight: 500;
+		font-size: 1.4rem;
+		line-height: 48px;
+	}
+	
+	.better-box {
+		text-align: center;
+	}
+	.better-box p {
+		text-align: center !important;
+	}
+	.chat-cls {
+		text-align: center;
+		justify-content: center;
+	}
+	.chat-des {
+		text-align: center;
+	}
+	
+	.btn {
+		margin: 0 auto;
+		justify-content: center;
+		display: flex;
+		max-width: 243px;
+	}
+	.chat-title {
+		font-size: 18px;
+		line-height: 28px;
+		text-transform: capitalize;
+		color: #393938;
+		padding-left: 10px;
+	}
+	.dealer-title {
+		font-size: 20px;
+		line-height: 25px;
+		text-transform: capitalize;
+		color: #393938;
+		text-align: center;
+		display: block;
+	}
+	.dealer-sub {
+		font-size: 14px;
+		text-align: center;
+	}
+	.karkiosk-link {
+	
+		font-size: 16px;
+		line-height: 25px;
+		margin: 0 auto;
+		text-align: center;
+		justify-content: center;
+		display: flex;
+	}
+	.logo2 {
+		justify-content: center;
+		display: flex;
+		margin-bottom: 25px;
+		margin-top: 20px;
+	}
+	.contact-us-banner .buy-title {
+		font-size: 1.5rem;
+		line-height: 71px;
+		text-align: center;
+	}
+
+	.banner-section.contact-us-banner {
+		height: 82px !important;
+		min-height: 72px;
+	}
+	.map-section iframe {
+		height: 200px;
+	}
+}
